@@ -1,1 +1,1 @@
-hello dev1, we are in dev2. Changes added from dev1 branch.
+this is dev2 branch and file is dev1 : changes.
