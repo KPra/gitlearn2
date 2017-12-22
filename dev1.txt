@@ -1,1 +1,3 @@
-hello dev1, we are in dev2. Changes added from dev1 branch.
+hello dev1, we are in dev2. Changes added from dev1 branch.more changes from dev branch github.Changes from github dev1 branch.
+Some changes from github local branch.More changes from github dev1 branch. 
+More changes from dev2 branch.
