@@ -3,3 +3,4 @@ Some changes from github local branch.More changes from github dev1 branch.
 Changes from dev4 - 1.
 Changes from dev4 - 2.
 Changes from master - 3.
+Changes from dev4 - 3.
