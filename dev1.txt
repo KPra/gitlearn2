@@ -6,8 +6,6 @@ Changes from master - 3.
 Changes from dev4 - 3.
 Changes from master - 4.
 Changes from dev4 - 4.
-<<<<<<< 271d3e29531b77f6ba5f309b1d8151a9715b39c0
 new changes master for dev4 - 1
-=======
 new changes from dev4 - 1
->>>>>>> new changes from dev4 - 1
+new changes from dev4 - 2
